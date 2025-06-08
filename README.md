@@ -48,6 +48,9 @@ npx hardhat node
 
 ```bash
 npx hardhat run --network localhost scripts/deploy.js
+또는
+npx hardhat ignition deploy ./ignition/modules/PDTTokenModule.ts
+
 ```
 
 ---
